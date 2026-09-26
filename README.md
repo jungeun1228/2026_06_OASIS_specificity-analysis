@@ -9,3 +9,7 @@ To be updated (ongoing project)
 2. QC
 3. PCA/ UMAP
    - Identify narcosis patterns based on channel-wise DINO profile patterns (ongoing)
+
+
+### References
+PlayMolecule AI 
