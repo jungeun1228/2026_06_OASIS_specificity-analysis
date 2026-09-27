@@ -11,9 +11,9 @@ To be updated (ongoing project)
    - Identify narcosis patterns based on channel-wise DINO profile patterns (ongoing)
 <br><br>
 
-* Comparison of POD from Cell Painting and cytotoxicity assays
-<img width="334" height="250" alt="image" src="https://github.com/user-attachments/assets/d99d533c-1a55-44d7-ba17-ef7f1120bc67" />
-<img width="334" height="250" alt="image" src="https://github.com/user-attachments/assets/ad977838-acc0-4cc4-b309-c23ff527f9f6" />
+* Comparison of PODs from Cell Painting and cytotoxicity assays
+<img width="401" height="300" alt="image" src="https://github.com/user-attachments/assets/d99d533c-1a55-44d7-ba17-ef7f1120bc67" />
+<img width="401" height="300" alt="image" src="https://github.com/user-attachments/assets/ad977838-acc0-4cc4-b309-c23ff527f9f6" />
 <br><br>
 
 * Application to baseline toxicity QSAR
@@ -25,8 +25,9 @@ To be updated (ongoing project)
 <img width="411" height="400" alt="image" src="https://github.com/user-attachments/assets/13a5a44b-5167-4784-a2c8-b82f7696618d" />
 <br><br>
 
-* Putative baseline toxicant group - MOA investigation
-* 
+* MOA investigation for putative baseline toxicant group 
+
 
 ### References
-PlayMolecule AI 
+
+Acellera. (2026). PlayMolecule AI [AI drug discovery platform]. https://playmolecule.ai/
