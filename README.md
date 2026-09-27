@@ -1,6 +1,6 @@
 # 2026_06_OASIS_specificity-analysis
 
-To be updated (ongoing project)
+To be updated soon (ongoing project)
 
 1. Data processing
    - Derived speciation information of individual chemicals in OASIS consortium using PlayMolecule AcepKa: predicted speciation of chemicals at pH 7.4 and calculated neutral, positive, negative, and zwitterionic fraction
@@ -9,7 +9,7 @@ To be updated (ongoing project)
 2. QC
 3. PCA/ UMAP
    - Identify narcosis patterns based on channel-wise DINO profile patterns (ongoing)
-
+4. Group based on toxic ratio (TR) / specificity ratio (SR)
 
 ### References
 PlayMolecule AI 
