@@ -9,7 +9,8 @@ To be updated soon (ongoing project)
 2. QC
 3. PCA/ UMAP
    - Identify narcosis patterns based on channel-wise DINO profile patterns (ongoing)
-4. Group based on toxic ratio (TR) / specificity ratio (SR)
+4. Specificity analysis
+<img width="868" height="844" alt="image" src="https://github.com/user-attachments/assets/13a5a44b-5167-4784-a2c8-b82f7696618d" />
 
 ### References
 PlayMolecule AI 
