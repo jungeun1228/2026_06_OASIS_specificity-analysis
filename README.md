@@ -14,8 +14,6 @@ To be updated (ongoing project)
 * Comparison of PODs from Cell Painting and cytotoxicity assays
 <img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/d99d533c-1a55-44d7-ba17-ef7f1120bc67" />
 <img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/c1600acd-a235-4d6c-aa37-f7db3c6872c8" />
-
-<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/ad977838-acc0-4cc4-b309-c23ff527f9f6" />
 <br><br>
 
 * Application to baseline toxicity QSAR
